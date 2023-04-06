@@ -1,4 +1,4 @@
-# Handling-high-traffic-in-ASP.NET-Core
+# Handling high traffic in ASP.NET-Core
 Handling high traffic in ASP.NET Core
 
 The following are tools and techniques that will help you handle high traffic in a .NET Core app:
