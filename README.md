@@ -2,6 +2,7 @@
 Handling high traffic in ASP.NET Core
 
 The following are tools and techniques that will help you handle high traffic in a .NET Core app:
+<img src="https://raw.githubusercontent.com/kavaan/Handling-high-traffic-in-ASP.NET-Core/main/dotnetcore.png"/>
 
 1- Caching:
 Caching stores frequently accessed data in memory or on disk to reduce database load and improve response times.
